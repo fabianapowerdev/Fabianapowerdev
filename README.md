@@ -1,6 +1,6 @@
 # 👩‍💻 Fabiana Ferreira
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Formada em Análise e Desenvolvimento de Sistemas  
 🌟 Apaixonada por soluções **low-code** com **Power Platform**  
 🚀 Em formação contínua com foco prático em **Power Apps**  
 
